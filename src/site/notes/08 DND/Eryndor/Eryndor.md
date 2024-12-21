@@ -8,13 +8,13 @@
 ![Pasted image 20241220211657.png](/img/user/98%20Attachments/Pasted%20image%2020241220211657.png)
 
 # Continents
-[[99 Files/eryndor-continents-tervanya\|eryndor-continents-tervanya]]
+[[99 Files/Eryndor-Continents-Tervanya\|Eryndor-Continents-Tervanya]]
 [[99 Files/Eryndor-Continents-Vastorim\|Eryndor-Continents-Vastorim]]
-[[ Eryndor - Continents - Quenara\| Eryndor - Continents - Quenara]]
-[[ Eryndor - Continents - Kaeldrin\| Eryndor - Continents - Kaeldrin]]
-[[ Eryndor - Continents - Zarithia\| Eryndor - Continents - Zarithia]]
-[[ Eryndor - Continents - Aqualonde\| Eryndor - Continents - Aqualonde]]
-[[ Eryndor - Continents - Vyrmir\| Eryndor - Continents - Vyrmir]]
+[[99 Files/Eryndor-Continents-Quenara\|Eryndor-Continents-Quenara]]
+[[99 Files/Eryndor-Continents-Kaeldrin\|Eryndor-Continents-Kaeldrin]]
+[[99 Files/Eryndor-Continents-Zarithia\|Eryndor-Continents-Zarithia]]
+[[99 Files/Eryndor-Continents-Aqualonde\|Eryndor-Continents-Aqualonde]]
+[[99 Files/Eryndor-Continents-Vyrmir\|Eryndor-Continents-Vyrmir]]
 
 # Religions 
 - [[99 Files/Eryndor - Religion - The circle of stones\|Eryndor - Religion - The circle of stones]]
