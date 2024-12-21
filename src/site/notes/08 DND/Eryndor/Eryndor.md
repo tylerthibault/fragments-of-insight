@@ -8,7 +8,7 @@
 ![Pasted image 20241220211657.png](/img/user/98%20Attachments/Pasted%20image%2020241220211657.png)
 
 # Continents
-1. [[ Eryndor - Continents - Tervanya\| Eryndor - Continents - Tervanya]]
+1. [[99 Files/eryndor-continents-tervanya\|eryndor-continents-tervanya]]
 2. [[ Eryndor - Continents - Vastorim\| Eryndor - Continents - Vastorim]]
 3. [[ Eryndor - Continents - Quenara\| Eryndor - Continents - Quenara]]
 4. [[ Eryndor - Continents - Kaeldrin\| Eryndor - Continents - Kaeldrin]]
