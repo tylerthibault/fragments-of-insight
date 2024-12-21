@@ -9,7 +9,7 @@
 
 # Continents
 [[99 Files/eryndor-continents-tervanya\|eryndor-continents-tervanya]]
-[[ Eryndor - Continents - Vastorim\| Eryndor - Continents - Vastorim]]
+[[99 Files/Eryndor-Continents-Vastorim\|Eryndor-Continents-Vastorim]]
 [[ Eryndor - Continents - Quenara\| Eryndor - Continents - Quenara]]
 [[ Eryndor - Continents - Kaeldrin\| Eryndor - Continents - Kaeldrin]]
 [[ Eryndor - Continents - Zarithia\| Eryndor - Continents - Zarithia]]
