@@ -3,8 +3,6 @@
 ---
 
 
-![Pasted image 20241220211752.png](/img/user/98%20Attachments/Pasted%20image%2020241220211752.png)
-
 ![Pasted image 20241220211657.png](/img/user/98%20Attachments/Pasted%20image%2020241220211657.png)
 
 # Continents
