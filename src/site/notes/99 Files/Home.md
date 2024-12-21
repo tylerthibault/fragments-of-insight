@@ -3,7 +3,6 @@
 ---
 
 
-
 A Home page for my thoughts and ideas
 
 
