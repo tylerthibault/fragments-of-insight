@@ -5,6 +5,8 @@
 
 ![Pasted image 20241220211657.png](/img/user/98%20Attachments/Pasted%20image%2020241220211657.png)
 
+# Assets
+Google Drive Folder: https://drive.google.com/drive/folders/1SdffIcJPGsVgILgGlO-kasqI8bve8p8m?usp=sharing
 # Continents
 [[08 DND/Eryndor/Continents/Eryndor-Continents-Tervanya\|Eryndor-Continents-Tervanya]]
 [[08 DND/Eryndor/Continents/Eryndor-Continents-Vastorim\|Eryndor-Continents-Vastorim]]

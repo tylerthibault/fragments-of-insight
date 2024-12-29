@@ -12,4 +12,4 @@
 - **Notable Regions**: Zarithian Plains (fertile lands), Sablehold (desert empire), Ashforge Highlands (volcanic north), Gilded Crown (prosperous eastern kingdom).
 ---
 # Governments
-- [[08 DND/Eryndor/Governments/Eryndor-Governments-Vastorim-TheBloodlineEmpire\|Eryndor-Governments-Vastorim-TheBloodlineEmpire]]
+- [[08 DND/Eryndor/Governments/Bloodline/The Bloodline Empire Overview\|The Bloodline Empire Overview]]
