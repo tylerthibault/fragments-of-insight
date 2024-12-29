@@ -64,14 +64,6 @@ The empire is a land of contrasts: its fertile valleys and productive mines are 
 
 ## **Cities & Towns & Villages**
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/08-dnd/eryndor/governments/bloodline/cities-and-towns/00-cities-and-towns-and-villages/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-
 | Name                                       | Population | type    | Remarks |
 | ------------------------------------------ | ---------- | ------- | ------- |
 | [[The Bloodline - Ironflame \| Ironflame]] | 50,000     | City    | Capital |
@@ -84,13 +76,9 @@ The empire is a land of contrasts: its fertile valleys and productive mines are 
 | Forgeholm                                  | 1,400      | Town    |         |
 | Ashroot                                    | 500        | Village |         |
 | Ashenford                                  | 300        | Village |         |
-| [[Charhollow \|Charhollow ]]                            | 750        | Village |         |
+| [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow\|Charhollow]]                             | 750        | Village |         |
 | Smolderhollow                              | 1,100      | Town    |         |
 | Blackwater                                 | 100        | Village |         |
-
-
-</div></div>
-
 
 ## **Culture and Society**
 
