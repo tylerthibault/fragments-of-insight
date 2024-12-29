@@ -64,21 +64,21 @@ The empire is a land of contrasts: its fertile valleys and productive mines are 
 
 ## **Cities & Towns & Villages**
 
-| Name                                       | Population | type    | Remarks |
-| ------------------------------------------ | ---------- | ------- | ------- |
-| [[The Bloodline - Ironflame \| Ironflame]] | 50,000     | City    | Capital |
-| Emberfall                                  | 22,000     | City    |         |
-| Blazewood                                  | 20,000     | City    |         |
-| Cinderwatch                                | 17,000     | City    |         |
-| Flickerwood                                | 3,000      | Town    |         |
-| Coalbarrow                                 | 1,500      | Town    |         |
-| kindlefoot                                 | 800        | Village |         |
-| Forgeholm                                  | 1,400      | Town    |         |
-| Ashroot                                    | 500        | Village |         |
-| Ashenford                                  | 300        | Village |         |
-| [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow-Overview\|Charhollow]]        | 750        | Village |         |
-| Smolderhollow                              | 1,100      | Town    |         |
-| Blackwater                                 | 100        | Village |         |
+| Name                                       | Population | type    | Remarks                 |
+| ------------------------------------------ | ---------- | ------- | ----------------------- |
+| [[The Bloodline - Ironflame \| Ironflame]] | 50,000     | City    | Capital                 |
+| Emberfall                                  | 22,000     | City    |                         |
+| Blazewood                                  | 20,000     | City    |                         |
+| Cinderwatch                                | 17,000     | City    |                         |
+| Flickerwood                                | 3,000      | Town    |                         |
+| Coalbarrow                                 | 1,500      | Town    |                         |
+| kindlefoot                                 | 800        | Village |                         |
+| Forgeholm                                  | 1,400      | Town    |                         |
+| Ashroot                                    | 500        | Village |                         |
+| Ashenford                                  | 300        | Village |                         |
+| [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow-Overview\|Charhollow]]        | 750        | Village | [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow-Overview\|Charhollow-Overview]] |
+| Smolderhollow                              | 1,100      | Town    |                         |
+| Blackwater                                 | 100        | Village |                         |
 
 ## **Culture and Society**
 
