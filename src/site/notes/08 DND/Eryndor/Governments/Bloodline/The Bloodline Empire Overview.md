@@ -76,7 +76,7 @@ The empire is a land of contrasts: its fertile valleys and productive mines are 
 | Forgeholm                                  | 1,400      | Town    |         |
 | Ashroot                                    | 500        | Village |         |
 | Ashenford                                  | 300        | Village |         |
-| [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow\|Charhollow]]                             | 750        | Village |         |
+| [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow-Overview\|Charhollow]]        | 750        | Village |         |
 | Smolderhollow                              | 1,100      | Town    |         |
 | Blackwater                                 | 100        | Village |         |
 
