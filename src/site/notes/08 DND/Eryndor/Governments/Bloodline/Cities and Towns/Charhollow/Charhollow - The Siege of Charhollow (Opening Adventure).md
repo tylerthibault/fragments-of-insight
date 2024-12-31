@@ -9,6 +9,8 @@
 # **Premise:**  
 The adventurers, all young and brave heroes, come from different places and backgrounds but find themselves converging on the peaceful village of Charhollow at the same time. Goblins have taken over the village, capturing its people and turning its heart—the village inn—into their stronghold. Each group has their own reason for being near Charhollow and must find their way into the village, facing challenges before uniting to liberate it.
 
+[[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - Intro\|Charhollow - Intro]]
+
 [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Siege - Group A - Entering the town\|Charhollow - The Siege - Group A - Entering the town]]
 [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Siege - Fight for the Rusty Lantern\|Charhollow - The Siege - Fight for the Rusty Lantern]]
 [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Siege - Group A - Travel to the Town Hall\|Charhollow - The Siege - Group A - Travel to the Town Hall]]
