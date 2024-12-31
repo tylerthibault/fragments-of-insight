@@ -11,7 +11,7 @@ The adventurers, all young and brave heroes, come from different places and back
 
 [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Siege - Group A - Entering the town\|Charhollow - The Siege - Group A - Entering the town]]
 [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Siege - Fight for the Rusty Lantern\|Charhollow - The Siege - Fight for the Rusty Lantern]]
-[[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Seige - Group A - Travel to the Town Hall\|Charhollow - The Seige - Group A - Travel to the Town Hall]]
+[[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Siege - Group A - Travel to the Town Hall\|Charhollow - The Siege - Group A - Travel to the Town Hall]]
 [[Charhollow - The Siege - Liberating City Hall\|Charhollow - The Siege - Liberating City Hall]]
 [[Charhollow - The Siege - Group B - Rescuing the Blacksmith\|Charhollow - The Siege - Group B - Rescuing the Blacksmith]]
 [[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Charhollow - The Siege - Group B - Blood and Ale\|Charhollow - The Siege - Group B - Blood and Ale]]
