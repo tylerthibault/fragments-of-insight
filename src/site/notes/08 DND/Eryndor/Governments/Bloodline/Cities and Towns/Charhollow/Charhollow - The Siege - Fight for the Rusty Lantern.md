@@ -123,3 +123,23 @@ After the battle:
 - Clues found in the goblin loot (e.g., maps, letters) can hint at the **second boss fight** and the goblin leader’s ultimate plans.
 
 This encounter should feel cinematic, with dynamic hazards and tactical opportunities for both groups of PCs!
+
+The adventurers emerged victorious from the fray, the last goblin falling with a thud. Panting and bruised, they turned their attention to the bound and gagged villagers. Elder Hettie Bramble, Gregor the Hunter, and Owen Kel, the town scribe, were quickly freed from their restraints.
+
+"Bless you, heroes!" Hettie gasped, her voice shaky. "You saved us from a grim fate."
+
+Gregor, rubbing his sore wrists, nodded in agreement. "Those fiends had us tied up like pigs for slaughter."
+
+Owen Kel, ever the meticulous scribe, straightened his spectacles and cleared his throat. "While we are eternally grateful," he began, his voice regaining its usual firmness, "I'm afraid our ordeal is far from over. The goblins have forced our blacksmith, Silas, to work for them. They're holding him captive at his own forge, forcing him to make weapons for their wicked army."
+
+"We must rescue him!" cried Hettie, her eyes filled with worry.
+
+"Indeed," Owen confirmed, pointing to a detailed map of the village hanging on the wall. "And that's not all. Farmer Giles went missing yesterday. We fear he may have been taken by the goblins as well."
+
+Gregor, his face grim, added, "The Town Hall is now a goblin stronghold. Groglug the Ruthless, their leader, and a warlock named Malkor have taken control. They're no doubt plotting something sinister."
+
+The adventurers, realizing the gravity of the situation, knew they had to act swiftly.
+
+"We'll split into two groups," one of them declared. "Some of us will head to the forge and free the blacksmith, while the others search for the missing farmer. We'll meet back at the Town Hall to confront Groglug and put an end to this."
+
+The villagers nodded, their eyes filled with a mixture of hope and fear. The fate of their village rested in the hands of these brave adventurers.
