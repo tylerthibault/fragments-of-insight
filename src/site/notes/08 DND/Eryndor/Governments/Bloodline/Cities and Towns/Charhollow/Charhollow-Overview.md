@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/08-dnd/eryndor/governments/bloodline/cities-and-towns/charhollow/charhollow-overview/"}
 ---
 
-
+![[Pasted image 20241230194115.png\|Pasted image 20241230194115.png]]
 
 ![image_charhollow.webp](/img/user/08%20DND/Eryndor/Governments/Bloodline/Cities%20and%20Towns/Charhollow/image_charhollow.webp)
 

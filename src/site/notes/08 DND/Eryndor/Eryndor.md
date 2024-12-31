@@ -7,6 +7,8 @@
 
 # Assets
 Google Drive Folder: https://drive.google.com/drive/folders/1SdffIcJPGsVgILgGlO-kasqI8bve8p8m?usp=sharing
+
+https://fragments-of-insight.vercel.app/
 # Continents
 [[08 DND/Eryndor/Continents/Eryndor-Continents-Tervanya\|Eryndor-Continents-Tervanya]]
 [[08 DND/Eryndor/Continents/Eryndor-Continents-Vastorim\|Eryndor-Continents-Vastorim]]
@@ -21,6 +23,3 @@ Google Drive Folder: https://drive.google.com/drive/folders/1SdffIcJPGsVgILgGlO-
 - [[08 DND/Eryndor/Religions/Eryndor - Religion - The circle of whispering winds\|Eryndor - Religion - The circle of whispering winds]]
 - [[08 DND/Eryndor/Religions/Eryndor - Religion - The ember circle\|Eryndor - Religion - The ember circle]]
 - [[08 DND/Eryndor/Religions/Eryndor - Religion - The azure circle\|Eryndor - Religion - The azure circle]]
-
-
-[Home](https://fragments-of-insight.vercel.app/)
