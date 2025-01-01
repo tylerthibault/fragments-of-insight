@@ -396,7 +396,7 @@ The wide dirt path stretches ahead, lined with patches of overgrown grass and we
 
 Goblin patrols roam the streets in pairs, their guttural voices carrying through the still night air. The sound of shuffling feet and jangling weapons grows louder as two goblins step into view from around the corner, heading toward the tree.
 
-[[Goblin Potential Dialog\|Goblin Potential Dialog]]
+[[08 DND/Eryndor/Governments/Bloodline/Cities and Towns/Charhollow/Goblin Potential Dialog\|Goblin Potential Dialog]]
 
 The front of the inn stands just beyond the crossroads, its porch creaking under the weight of goblin guards. A faint orange glow from the windows suggests a fire inside, and the faint sound of arguing goblins filters out into the night.
 
